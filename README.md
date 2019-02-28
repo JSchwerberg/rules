@@ -1,5 +1,4 @@
-# Techie Furs  
-(draft version 0.99)  
+# Techie Furs <sup>![v0.99](https://version-badge.egoist.sh/npm/text/0.99)</sup>
 ### Room Purpose:
 We are a relaxed, visually safe-for-work chat for furries who are technology enthusiasts. The word technology is intentionally broad, and while the room was originally intended to focus on the realm of computers, IT and programming, it has grown to include other interests such as ham/amateur radio and mechanical and electrical engineering.
 
