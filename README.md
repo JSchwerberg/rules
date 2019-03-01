@@ -7,4 +7,4 @@ Our hope and goal is to keep the rules simple and clear. Rather than provide a v
 Forbidden:
 - Any media, stickers, or ASCII art of a graphic or sexual nature
 - Intentionally disrupting or exploiting bugs in the Telegram UI (example: using RTL/LTR switch unicode to cause UI elements to break)
-- Ad hominem attacks, or any personal attack on another individual.
+- Any personal attacks on other individuals.
